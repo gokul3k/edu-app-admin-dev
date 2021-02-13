@@ -1,0 +1,13 @@
+<svg id="uploadimg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="299" height="343" viewBox="0 0 299 343">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_50" data-name="Rectangle 50" width="23" height="23" rx="10" transform="translate(208 159)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <rect id="Rectangle_49" data-name="Rectangle 49" width="299" height="343" rx="15" fill="#fff"/>
+  <g id="Group_38" data-name="Group 38" clip-path="url(#clip-path)">
+    <path id="Path_81" data-name="Path 81" d="M227.163,167.454a7.906,7.906,0,0,0-15.552,1.351,4.312,4.312,0,0,0,.719,8.567h3.593v-1.437H212.33a2.875,2.875,0,0,1,0-5.75.718.718,0,0,0,.718-.718,6.468,6.468,0,0,1,12.814-1.258.719.719,0,0,0,.611.575,3.593,3.593,0,0,1-.489,7.151H223.11v1.437h2.874a5.031,5.031,0,0,0,1.179-9.918Z" fill="#2262c6"/>
+    <path id="Path_82" data-name="Path 82" d="M219.007,170.394l-2.875,2.874,1.013,1.014,1.653-1.646v6.892h1.437v-6.892l1.646,1.646,1.014-1.014-2.875-2.874A.718.718,0,0,0,219.007,170.394Z" fill="#2262c6"/>
+  </g>
+  <text id="Upload_Advertisement" data-name="Upload Advertisement" transform="translate(49 177)" fill="#2262c6" font-size="13" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Upload Advertisement</tspan></text>
+</svg>

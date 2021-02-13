@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    flex: 1;
+    margin-right: 32px;
+    margin-left: 32px;
+}
+
+.form {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+}
+
+.btn {
+    display: flex;
+    justify-content: end;
+    margin-top: 16px;
+}
+
+.buttonRoleHeadingContainer {
+    display: flex;
+    margin-top: 16px;
+    flex-direction: row;
+}
+
+.heading {
+    display: flex;
+    font-weight: bold;
+    flex: 1;
+    align-items: center;
+    color: #1976d2;
+}
+
+.buttonRoleContainer {
+    display: flex;
+    flex: 3;
+    margin-left: 16px;
+    justify-content: space-between;
+}

@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    scrollbar-width:1px !important;
+
+}
+.stats{
+    padding: 24px;
+    background-color:#1a73e8;
+}
+.welcome{
+    color:white;
+    font-size: 1rem;
+    font-weight: 600;
+}
+.paper{
+    flex-direction: column;
+    padding:16px;
+    min-width: 250px;
+    border-radius: 10px !important;
+    text-align: center;
+}
+.paperTitle{
+    color:#1976d2;
+    font-size: .9rem;
+    font-weight: 600;
+}
+.paperContent{
+    color:#1976d2;
+    font-weight: 800;
+    font-size: 1.5rem;
+}
